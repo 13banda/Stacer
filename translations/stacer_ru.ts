@@ -6,57 +6,57 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="14"/>
         <source>APT Repository Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактирование репозитория APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="38"/>
         <source>APT Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Репозиторий APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="48"/>
         <source>Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Компоненты</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="55"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="87"/>
         <source>Fields cannot be left blank. </source>
-        <translation type="unfinished">Необходимо заполнить поля. </translation>
+        <translation>Необходимо заполнить поля. </translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="94"/>
         <source>URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="110"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="133"/>
         <source>Distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Дистрибутив</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="152"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный код</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_edit.ui" line="177"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Готовые пакеты</translation>
     </message>
 </context>
 <context>
@@ -64,63 +64,63 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="188"/>
         <source>Search...</source>
-        <translation type="unfinished">Поиск...</translation>
+        <translation>Поиск...</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="226"/>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="14"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер репозиториев APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="125"/>
         <source>Not Found APT Repositories</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдены репозитории APT</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="269"/>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="308"/>
         <source>Enable Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить источник</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="338"/>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="86"/>
         <source>Add Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить репозиторий</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="371"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.ui" line="419"/>
         <source>Select to delete or edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите для удаления или редактирования.</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="25"/>
         <source>example %1</source>
-        <translation type="unfinished"></translation>
+        <translation>пример %1</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="59"/>
         <source>APT Repositories (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Репозиториев APT (%1)</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_manager_page.cpp" line="66"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
 </context>
 <context>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../stacer/Pages/AptSourceManager/apt_source_repository_item.cpp" line="34"/>
         <source>%1 (Source Code)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Исходный код)</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../stacer/app.ui" line="135"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск приложений</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="163"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="../stacer/app.ui" line="306"/>
         <source>APT Repository Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер репозиториев APT</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="250"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="../stacer/app.ui" line="194"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="334"/>
         <source>Gnome Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки Gnome</translation>
     </message>
     <message>
         <location filename="../stacer/app.ui" line="362"/>
@@ -186,12 +186,12 @@
     <message>
         <location filename="../stacer/app.ui" line="403"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="111"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
 </context>
 <context>
@@ -199,97 +199,97 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="44"/>
         <source>Screen Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Экранные приложения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="74"/>
         <source>Screen Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение с экрана</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="100"/>
         <source>Screen Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Экранная клавиатура</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="136"/>
         <source>Background Image Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим фонового изображения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="166"/>
         <source>Desktop Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим рабочего стола</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="204"/>
         <source>Login Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим экрана блокировки</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="252"/>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Значки</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="282"/>
         <source>Home Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок домашнего каталога</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="308"/>
         <source>Trash Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок корзины</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="321"/>
         <source>Mounted Volumes Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок примонтированных томов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="347"/>
         <source>Show Desktop Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать значки на рабочем столе</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.ui" line="373"/>
         <source>Network Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Значок сети</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Не выбрано</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Обои</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="71"/>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Scaled</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабирование</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Stretched</source>
-        <translation type="unfinished"></translation>
+        <translation>Растягивание</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/appearance_settings.cpp" line="72"/>
         <source>Spanned</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполнение</translation>
     </message>
 </context>
 <context>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="20"/>
         <source>Dashboard</source>
-        <translation type="unfinished">Обзор</translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="156"/>
@@ -377,32 +377,32 @@
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="133"/>
         <source>High CPU Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокая загрузка процессора</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="134"/>
         <source>The amount of CPU used is over %1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование процессора превышает %1%.</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="162"/>
         <source>High Memory Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокое потребление памяти</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="163"/>
         <source>The amount of memory used is over %1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование памяти превышает %1%.</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="202"/>
         <source>High Disk Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокая загрузка диска</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="203"/>
         <source>The amount of disk used is over %1%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование диска превышает %1%.</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="241"/>
@@ -416,68 +416,68 @@
     <message>
         <location filename="../stacer/feedback.ui" line="14"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить отзыв</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.ui" line="38"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.ui" line="45"/>
         <source>Email Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.ui" line="68"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.ui" line="94"/>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.ui" line="104"/>
         <source>Send a Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить отзыв</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="46"/>
         <source>Email address is not valid !</source>
-        <translation type="unfinished"></translation>
+        <translation>Некорректный адрес электронной почты!</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="51"/>
         <source>Your message must be at least 25 characters !</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше сообщение должно быть больше 25 символов!</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="61"/>
         <source>Sending..</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправка..</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="79"/>
         <source>&lt;font color=&apos;#2ecc71&apos;&gt;Your Feedback has been successfully sended.&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&apos;#2ecc71&apos;&gt;Ваш отзыв был отправлен.&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="81"/>
         <location filename="../stacer/feedback.cpp" line="86"/>
         <source>Something went wrong, try again !</source>
-        <translation type="unfinished"></translation>
+        <translation>Что-то пошло не так, попробуйте еще раз!</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="89"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../stacer/feedback.cpp" line="94"/>
         <source>Fields cannot be left blank !</source>
-        <translation type="unfinished"></translation>
+        <translation>Поля нельзя оставлять пустыми!</translation>
     </message>
 </context>
 <context>
@@ -485,22 +485,22 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="14"/>
         <source>Gnome Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки Gnome</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="49"/>
         <source>Unity Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки Unity</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="81"/>
         <source>Window Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Оконный менеджер</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/gnome_settings_page.ui" line="110"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний вид</translation>
     </message>
 </context>
 <context>
@@ -597,7 +597,7 @@
     <message>
         <location filename="../stacer/Managers/setting_manager.cpp" line="61"/>
         <source>Dashboard</source>
-        <translation type="unfinished">Обзор</translation>
+        <translation>Обзор</translation>
     </message>
 </context>
 <context>
@@ -605,67 +605,67 @@
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="14"/>
         <source>History of CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Использование процессора</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="15"/>
         <source>History of CPU Load Averages</source>
-        <translation type="unfinished"></translation>
+        <translation>Средняя загрузка процессора</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="16"/>
         <source>History of Disk Read Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Диск</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="17"/>
         <source>History of Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Память и раздел подкачки</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="18"/>
         <source>History of Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка сети</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="75"/>
         <source>Read: %1/s Total: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение: %1/c Всего: %2</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="81"/>
         <source>Write: %1/s Total: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись: %1/c Всего: %2</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="118"/>
-        <source>%1 Minute Avarage: %2</source>
-        <translation type="unfinished"></translation>
+        <source>%1 Minute Average: %2</source>
+        <translation>Среднее за %1 минут: %2</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="164"/>
         <source>Download: %1/s Total: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Получение: %1/c Всего: %2</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="169"/>
         <source>Upload: %1/s  Total: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправка: %1/c Всего: %2</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="213"/>
         <source>Swap: %1 (%2%) %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл подкачки: %1 (%2%) %3</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="222"/>
         <source>Memory: %1 (%2%) %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Память: %1 (%2%) %3</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.ui" line="14"/>
         <source>Resources</source>
-        <translation type="unfinished">Ресурсы</translation>
+        <translation>Ресурсы</translation>
     </message>
 </context>
 <context>
@@ -673,7 +673,7 @@
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="14"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="137"/>
@@ -693,32 +693,32 @@
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="27"/>
         <source>Running Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="27"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Запущена</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="27"/>
         <source>Not Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Не запущена</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="28"/>
         <source>Startup Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="28"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="28"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключено</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="75"/>
@@ -731,22 +731,22 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="20"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="110"/>
         <source>Memory Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка памяти</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="204"/>
         <source>Disk Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка диска</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="233"/>
         <source>Disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Диски</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="246"/>
@@ -756,32 +756,32 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="259"/>
         <source>Autostart Stacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск Stacer</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="317"/>
         <source>Alert messages (Show a warning after the specified percentage)</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать предупреждение после указанного процента</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="422"/>
         <source>Start Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Стартовый экран</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="301"/>
         <source>CPU Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка ЦП</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="324"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Created by &lt;a href=&quot;https://github.com/oguzhaninan&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;Oğuzhan İNAN&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Автор: &lt;a href=&quot;https://github.com/oguzhaninan&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;Oğuzhan İNAN&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="355"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвовать</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="97"/>
@@ -791,37 +791,37 @@
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>Dashboard</source>
-        <translation type="unfinished">Обзор</translation>
+        <translation>Обзор</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Запускаемые приложения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="74"/>
         <source>System Cleaner</source>
-        <translation type="unfinished">Очистка системы</translation>
+        <translation>Очистка системы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Службы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Processes</source>
-        <translation type="unfinished">Процессы</translation>
+        <translation>Процессы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Uninstaller</source>
-        <translation type="unfinished">Удаление пакетов</translation>
+        <translation>Удаление пакетов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.cpp" line="75"/>
         <source>Resources</source>
-        <translation type="unfinished">Ресурсы</translation>
+        <translation>Ресурсы</translation>
     </message>
 </context>
 <context>
@@ -829,12 +829,12 @@
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="128"/>
         <source>Edit App</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app.ui" line="150"/>
         <source>Delete App</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -880,7 +880,7 @@
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="14"/>
         <source>Startup Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Автозапуск приложений</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="101"/>
@@ -895,7 +895,7 @@
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="89"/>
         <source>Startup Applications (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически запускаемые приложения (%1)</translation>
     </message>
 </context>
 <context>
@@ -903,12 +903,12 @@
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="14"/>
         <source>System Cleaner</source>
-        <translation type="unfinished">Очистка системы</translation>
+        <translation>Очистка системы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="63"/>
         <source>Crash Reports</source>
-        <translation>Отчеты об ошибках</translation>
+        <translation>Отчёты об ошибках</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="177"/>
@@ -966,7 +966,7 @@
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="14"/>
         <source>Uninstaller</source>
-        <translation type="unfinished">Удаление пакетов</translation>
+        <translation>Удаление пакетов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="90"/>
@@ -984,184 +984,184 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="65"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="108"/>
         <source>Show &quot;Recently Used&quot; applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать недавние приложения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="134"/>
         <source>Enable search of your files</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить поиск файлов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="160"/>
         <source>Show &quot;More Suggestions&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать &quot;Другие рекомендации&quot;</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="186"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="196"/>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="683"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Основное</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="229"/>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="660"/>
         <source>Transparency Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="280"/>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведение</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="323"/>
         <source>Auto Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрывать автоматически</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="339"/>
         <source>Left Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Слева</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="380"/>
         <source>Minimize applications with clicking</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимизация приложений по щелчку</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="396"/>
         <source>Top-Left Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Верхний левый угол</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="412"/>
         <source>Reveal Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость открытия</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="438"/>
         <source>Reveal Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Место окрытия</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="464"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель запуска</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="474"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="507"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Слева</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="526"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Снизу</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="542"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Видимость</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="558"/>
         <source>Primary Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Основной рабочий стол</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="612"/>
         <source>Icon size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер значков</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="628"/>
         <source>All Desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Все рабочие столы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="644"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="726"/>
         <source>Search online sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск результатов в сети</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="752"/>
         <source>Background Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Фоновое размытие</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="778"/>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="801"/>
         <source>Indicators</source>
-        <translation type="unfinished"></translation>
+        <translation>Индикаторы</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="840"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="862"/>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Календарь</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="875"/>
         <source>Date &amp; Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата и время</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="888"/>
         <source>24-Hour Time</source>
-        <translation type="unfinished"></translation>
+        <translation>24-часовой формат</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="910"/>
         <source>Weekday</source>
-        <translation type="unfinished"></translation>
+        <translation>День недели</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="923"/>
         <source>Include</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавлять</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="945"/>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Секунды</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="958"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/unity_settings.ui" line="971"/>
         <source>Show my name</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать моё имя</translation>
     </message>
 </context>
 <context>
@@ -1169,147 +1169,147 @@
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="90"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Основные</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="100"/>
         <source>Titlebar Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия заголовка</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="155"/>
         <source>Right click</source>
-        <translation type="unfinished"></translation>
+        <translation>Правый щелчок</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="168"/>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойной щелчок</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="181"/>
         <source>Middle click</source>
-        <translation type="unfinished"></translation>
+        <translation>Щелчок средней кнопкой</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="257"/>
         <source>Additional</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="267"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка рабочего окружения</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="310"/>
         <source>Vertical workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальных рабочих столов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="333"/>
         <source>Workspace switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение рабочих столов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="356"/>
         <source>Horizontal workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальных рабочих столов</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="379"/>
         <source>Focus Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведение фокуса</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="409"/>
         <source>Focus mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим фокусировки</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="460"/>
         <source>Raise on click</source>
-        <translation type="unfinished"></translation>
+        <translation>На передний план по щелчку</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="483"/>
         <source>Hardware Acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>Аппаратное ускорение</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.ui" line="538"/>
         <source>Text quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Качество текста</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошее</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="66"/>
         <source>Best</source>
-        <translation type="unfinished"></translation>
+        <translation>Наилучшее</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="68"/>
         <source>Click</source>
-        <translation type="unfinished"></translation>
+        <translation>По щелчку</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="68"/>
         <source>Sloppy</source>
-        <translation type="unfinished"></translation>
+        <translation>По положению курсора исключая рабочий стол</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="68"/>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>По положению курсора</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="80"/>
         <source>Toggle Shade</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть в заголовок</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="80"/>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Распахнуть</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="80"/>
         <source>Maximize Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Распахнуть горизонтально</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="81"/>
         <source>Maximize Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Распахнуть вертикально</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="81"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="82"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Не выбрано</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="82"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>На задний план</translation>
     </message>
     <message>
         <location filename="../stacer/Pages/GnomeSettings/window_manager_settings.cpp" line="82"/>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню</translation>
     </message>
 </context>
 </TS>

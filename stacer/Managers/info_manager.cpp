@@ -29,7 +29,7 @@ QStringList InfoManager::getGroupList() const
 /*
  * CPU Provider
  */
-quint8 InfoManager::getCpuCoreCount() const
+int InfoManager::getCpuCoreCount() const
 {
     return ci.getCpuCoreCount();
 }
@@ -42,6 +42,11 @@ QList<int> InfoManager::getCpuPercents() const
 QList<double> InfoManager::getCpuLoadAvgs() const
 {
     return ci.getLoadAvgs();
+}
+
+double InfoManager::getCpuClock() const
+{
+    return ci.getAvgClock();
 }
 
 /*

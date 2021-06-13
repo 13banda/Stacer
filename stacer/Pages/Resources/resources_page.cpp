@@ -254,7 +254,7 @@ void ResourcesPage::updateCpuLoadAvg()
 
         seriesList.at(j)->insert(0, QPointF(0, avg));
 
-        seriesList.at(j)->setName(tr("%1 Minute Avarage: %2")
+        seriesList.at(j)->setName(tr("%1 Minute Average: %2")
                                   .arg(minutes[j])
                                   .arg(avg));
 
@@ -345,7 +345,7 @@ void ResourcesPage::updateMemoryChart()
 
     // Swap
     double percent = 0;
-    if (im->getSwapTotal()) // aritmetic exception control
+    if (im->getSwapTotal()) // arithmetic exception control
         percent = ((double) im->getSwapUsed() / (double) im->getSwapTotal()) * 100.0;
 
     seriesList.at(0)->insert(0, QPointF(0, percent));

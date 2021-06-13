@@ -1,39 +1,46 @@
 #include "system_info.h"
 
 #include <QObject>
+#include <iostream>
 
 SystemInfo::SystemInfo()
 {
-    QStringList lines = FileUtil::readListFromFile(PROC_CPUINFO)
-            .filter(QRegExp("^model name"));
-
     QString unknown(QObject::tr("Unknown"));
+    QString model = nullptr;
+    QString speed = nullptr;
 
-    if (! lines.isEmpty()) {
+    try{
+        QStringList lines = CommandUtil::exec("bash",{"-c", LSCPU_COMMAND}).split('\n');  //run command in English language (guaratee same behaviour across languages)
+
         QRegExp regexp("\\s+");
         QString space(" ");
 
-        QStringList model = lines.first().split(":");
-
-        if (model.last().contains('@')) { // intel
-            model = model.last().split("@");
-
-            if ( model.count() > 1) {
-                this->cpuModel = model.first().trimmed().replace(regexp, space);
-                this->cpuSpeed = model.last().trimmed().replace(regexp, space);
-            }
-        } else { // AMD
-            this->cpuModel = model.last();
-            this->cpuSpeed = unknown;
+        auto filterModel = lines.filter(QRegExp("^Model name"));
+        QString modelLine = filterModel.isEmpty() ? "error missing model:error missing model" : filterModel.first();
+        auto filterSpeed = lines.filter(QRegExp("^CPU max MHz"));
+        QString speedLine = "error:0.0";
+        if (filterSpeed.isEmpty())
+        {
+            // fallback to CPU MHz
+            filterSpeed = lines.filter(QRegExp("^CPU MHz"));
+            speedLine = filterSpeed.isEmpty() ? speedLine : filterSpeed.first();
         }
-    }
-    else {
+
+        model = modelLine.split(":").last();
+        speed = speedLine.split(":").last();
+
+        model = model.contains('@') ? model.split("@").first() : model; // intel : AMD
+        speed = QString::number(speed.toDouble()/1000.0) + "GHz";
+
+        this->cpuModel = model.trimmed().replace(regexp, space);
+        this->cpuSpeed = speed.trimmed().replace(regexp, space);
+    } catch(QString &ex) {
         this->cpuModel = unknown;
         this->cpuSpeed = unknown;
     }
 
     CpuInfo ci;
-    this->cpuCore = QString::number(ci.getCpuCoreCount());
+    this->cpuCore = QString::number(ci.getCpuPhysicalCoreCount());
 
     // get username
     QString name = qgetenv("USER");

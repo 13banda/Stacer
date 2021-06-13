@@ -7,10 +7,6 @@
   <a href="https://www.patreon.com/oguzhaninan">
 	<img alt="Patreon" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" />
 </a>
-	
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PDMEZXLTSRLHE">
-	<img src="https://avaazimages.s3.amazonaws.com/paypal_donate_button.jpg" height="50" />
-</a>
 </p>
 
 <p align="center">
@@ -31,6 +27,13 @@
 	</a>
 </p>	
 
+## Sponsors
+<p align="center">
+    <a href="https://binalyze.com/">
+	<img width="180px" src="https://binalyze.com/wp-content/uploads/2020/09/binalyze-1-1.png" />
+</a>  
+</p>
+
 ## Reviews
 <p align="left">
     <a href="http://www.omgubuntu.co.uk/2017/01/stacer-system-optimizer-for-ubuntu">
@@ -39,9 +42,6 @@
     <a href="http://www.diolinux.com.br/2017/02/stacer-um-programa-para-otimizar-o-ubuntu.html">
 		<img width="170px" src="http://coletivo.semanadolinux.com.br/images/site/diolinux.png"/>
 	</a>    
-    <a href="https://www.genbeta.com/linux/stacer-una-app-todo-en-uno-que-te-deja-monitorizar-y-optimizar-el-sistema-en-ubuntu">
-		<img width="155px" src="http://seanfee.com/wp-content/uploads/2014/04/Logo_genbeta.jpg"/>
-	</a>
     <a href="http://www.dobreprogramy.pl/Stacer-program-do-optymalizacji-Ubuntu-ktory-wyglada-jakby-uciekl-z-Windowsa,News,78941.html">
 		<img width="155px" src="http://storage.dobreprogramy.pl/artykuly/9urodziny/logoDP-napis.png"/>
 	</a>
@@ -68,17 +68,24 @@
 2. Run `sudo dpkg -i stacer*.deb` on the downloaded package.
 3. Launch Stacer using the installed `stacer` command.
 
-### Fedora x64
+### Debian sid / Ubuntu 20.04+
 
+1. Run as root `apt install stacer`
+
+### Fedora
 1. Download `stacer_1.1.0_amd64.rpm` from the [Stacer releases page](https://github.com/oguzhaninan/Stacer/releases).
 2. Run `sudo rpm --install stacer*.rpm --nodeps --force` on the downloaded package.
 3. Launch Stacer using the installed `stacer` command.
 
+### Fedora (with DNF)
+1. Run: `sudo dnf install stacer`
+2. Launch Stacer using the installed `stacer` command.
+
 ## Build from source with CMake (Qt Version Qt 5.x)
-1. mkdir build && cd build
-2. cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/qt/path/bin ..
-3. make -j $(nproc)
-4. output/bin/stacer
+1. `mkdir build && cd build`
+2. `cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=/qt/path/bin ..`
+3. `make -j $(nproc)`
+4. `output/bin/stacer`
 
 ## Screenshots
 
@@ -145,3 +152,33 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-16.png" width="700">
 </p>
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/oguzhaninan/Stacer/graphs/contributors"><img src="https://opencollective.com/Stacer/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/Stacer/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/Stacer"><img src="https://opencollective.com/Stacer/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/Stacer/contribute)]
+
+<a href="https://opencollective.com/Stacer/organization/0/website"><img src="https://opencollective.com/Stacer/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/1/website"><img src="https://opencollective.com/Stacer/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/2/website"><img src="https://opencollective.com/Stacer/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/3/website"><img src="https://opencollective.com/Stacer/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/4/website"><img src="https://opencollective.com/Stacer/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/5/website"><img src="https://opencollective.com/Stacer/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/6/website"><img src="https://opencollective.com/Stacer/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/7/website"><img src="https://opencollective.com/Stacer/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/8/website"><img src="https://opencollective.com/Stacer/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/Stacer/organization/9/website"><img src="https://opencollective.com/Stacer/organization/9/avatar.svg"></a>
